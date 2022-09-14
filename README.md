@@ -19,3 +19,8 @@ Nuvem de tags para triagem de profissional por afinidade
 <img align="left" alt="Ecossistema Spring"  src="https://miro.medium.com/max/1354/0*vKyT6V_8viDFfDOx.png" />
 
 <img align="left" alt="Resultado Pesquisa"  src="https://www.redalyc.org/journal/4656/465661897015/465661897015_gf2.png" />
+
+<img align="left" alt="Resultado Pesquisa"  src="https://www.psicologiamsn.com/wp-content/uploads/2015/01/conhecimento_compartilhado.jpg" />
+
+
+
